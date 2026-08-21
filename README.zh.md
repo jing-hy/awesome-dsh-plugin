@@ -124,6 +124,7 @@ dsh plugin --profile web add dshmarket
 - [izz-BLUE/dsh-deepseek-usage-dashboard](https://github.com/izz-BLUE/dsh-deepseek-usage-dashboard) — DSH Web 的 DeepSeek API 用量仪表盘：基于会话日志统计每日缓存命中/未命中输入与输出 Token，并展示分模型费用估算、账户余额、7 日趋势和 composer 用量摘要。
 - [jiangli07/dsh-deepseek-quota-bar](https://github.com/jiangli07/dsh-deepseek-quota-bar) — 可拖动透明余额卡片：余额/月初额度血条、今日/本月用量（配置平台 token 后为官方精确数据）、当前对话费用。
 - [jiangnanquan/dsh-ux](https://github.com/jiangnanquan/dsh-ux) — Solarized 浅色主题、紧凑布局、思考/工具链折叠胶囊，以及余额、本轮成本与用量看板的 DSH Web 界面增强插件。
+- [jing-hy/dsh-file-drop-eac](https://github.com/jing-hy/dsh-file-drop-eac) — 把本地文件/文件夹拖进对话交给 agent：文本/代码注入输入框（带文件名头），二进制/超大文件给路径提示，图片不接管（交给视觉桥），文件夹给出可操作降级提示。
 - [jjxjjjjiik-bot/dsh-chat-timeline](https://github.com/jjxjjjjiik-bot/dsh-chat-timeline) — 1:1 复刻 DeepSeek 官网右侧对话导航栏（ScrollNav）：悬停展开面板、阅读位置高亮、点击跳转。
 - [johnnycls/dsh-no-setup-mode](https://github.com/johnnycls/dsh-no-setup-mode) — DSH 网页免设置模式：隐藏复杂界面、自动套用最佳设置（聊天模式、Full Access、账户余额），并提供一键人设角色扮演（女僕/管家）。
 - [Jolly-J/dsh-deepseek-billing](https://github.com/Jolly-J/dsh-deepseek-billing) — 侧边栏底部 DeepSeek 账户余额显示与会话费用估算卡片。

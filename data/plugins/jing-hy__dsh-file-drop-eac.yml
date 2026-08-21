@@ -1,0 +1,6 @@
+url: https://github.com/jing-hy/dsh-file-drop-eac
+name: jing-hy/dsh-file-drop-eac
+category: ui
+description:
+  en: Drag local files or folders into the chat to hand them to the agent; text and code are injected inline with a filename header, binaries and oversized files become path hints, images are left to the vision pipeline, and folders get an actionable fallback hint.
+  zh: 把本地文件/文件夹拖进对话交给 agent：文本/代码注入输入框（带文件名头），二进制/超大文件给路径提示，图片不接管（交给视觉桥），文件夹给出可操作降级提示。
